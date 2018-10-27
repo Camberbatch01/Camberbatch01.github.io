@@ -72,9 +72,11 @@
   }
   #firstP {
       background-color: lightpink;
+      padding: 0%;
+      margin: 0%;
   }
   #secondP {
-      background-color: lightgreen;
+      background-color: coral;
   }
   #thirdP {
       background-color: lightslategray;
@@ -83,7 +85,7 @@
       background-color: navajowhite;
   }
   #fifthP {
-      background-color: coral;
+      background-color: lightgreen;
   }
   #contact h1 {
     border-bottom: 2px solid #333;
