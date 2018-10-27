@@ -1,0 +1,96 @@
+#navbar {
+    overflow: hidden;
+    background-color: #333;
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+  
+  /* Navbar links */
+#navbar a {
+    float: right;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px;
+    margin-right: 20px;
+    text-decoration: none;
+  }
+  #intro {
+    padding-top: 50px;
+    text-align: center;
+    background-image: url(introBack.jpg);
+    background-size: 100% 550px;
+    height: 500px;
+  }
+  #hello {
+    margin-top: 80px;
+  }
+  #intro h1 {
+    font-size: 50px;
+    font-family: cursive;
+  }
+  #intro p {
+      font-size: 20px;
+  }
+  #aboutMe {
+    text-align: center;
+    font-size: 20px;
+    padding: 20px;
+  }
+  #aboutMe h1 {
+      border-bottom: 2px solid #333;
+      padding-top: 0%;
+      margin-top: 0;
+  }
+  #description {
+      width: 800px;
+      margin: 0 auto;
+  }
+  #projectHead h1 {
+    border-bottom: 2px solid #333;
+    padding-top: 0%;
+    margin-top: 0;
+  }
+  #projectHead {
+      text-align: center;
+      font-size: 20px;
+  }
+  #container div {
+      margin: 30px auto;
+      box-shadow: 1px 1px 1px 1px black;
+      padding: 5px;
+      height: 300px;
+      width: 250px;
+  }
+  .github {
+      text-decoration: none;
+  }
+  #container {
+      display: flex;
+      text-align: center;
+  }
+  #firstP {
+      background-color: lightpink;
+  }
+  #secondP {
+      background-color: lightgreen;
+  }
+  #thirdP {
+      background-color: lightslategray;
+  }
+  #fourthP {
+      background-color: navajowhite;
+  }
+  #fifthP {
+      background-color: coral;
+  }
+  #contact h1 {
+    border-bottom: 2px solid #333;
+    padding-top: 0%;
+    margin-top: 0;
+  }
+  #contact {
+      text-align: center;
+      font-size: 20px;
+  }
