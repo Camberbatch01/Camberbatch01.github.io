@@ -19,7 +19,7 @@
   #intro {
     padding-top: 50px;
     text-align: center;
-    background-image: url(./images/introBack.jpg);
+    background-image: url(images/introBack.jpg);
     background-size: 100% 550px;
     height: 500px;
   }
