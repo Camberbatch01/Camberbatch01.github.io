@@ -83,7 +83,7 @@
       flex-wrap: wrap;
       justify-content: center;
   }
-#container div h4 {
+  #container div h4 {
      margin-top: 5px;
 }
   #firstP {
@@ -103,13 +103,4 @@
   }
   #container img {
       box-shadow: 1px 1px 1px 1px black;
-  }
-  #contact h1 {
-    border-bottom: 2px solid #333;
-    padding-top: 0%;
-    margin-top: 0;
-  }
-  #contact {
-      text-align: center;
-      font-size: 20px;
   }
