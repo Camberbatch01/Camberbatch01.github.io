@@ -75,7 +75,7 @@
   }
   .github:hover {
       cursor: pointer;
-      background-color: antiquewhite;
+      background-color: lightgray;
   }
   #container {
       text-align: center;
