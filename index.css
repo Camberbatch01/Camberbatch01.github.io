@@ -67,10 +67,11 @@
   .github {
       border-radius: 4px;
       border: 1px solid black;
+      box-shadow: 2px 2px 2px 2px black;
       background-color: white;
       font-size: 16px;
       height: 40px;
-      width: 150px;
+      width: 120px;
   }
   .github:hover {
       cursor: pointer;
