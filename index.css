@@ -57,14 +57,12 @@
       font-size: 20px;
   }
   #container div {
-      margin: auto;
-      margin-right: 5px;
-      box-shadow: 1px 1px 1px 1px black;
+      margin: 10px;
+      box-shadow: 2px 2px 2px 2px black;
       border-radius: 4px;
       padding: 5px;
       height: 300px;
       width: 250px;
-      float: left;
   }
   .github {
       border-radius: 4px;
@@ -80,6 +78,9 @@
   }
   #container {
       text-align: center;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
   }
   #firstP {
       background-color: lightpink;
